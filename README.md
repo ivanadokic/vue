@@ -27,3 +27,5 @@ You can deploy your new Vue.js project with a single command from your terminal 
 ```shell
 $ vercel
 ```
+### Blog
+https://dev.to/ivanadokic/deploy-vue-js-app-on-vercel-k9g
